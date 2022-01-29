@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/241230-git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/241230-git/cmake-build-debug/CMakeFiles/241230_git.dir
+C:/Users/student/Desktop/241230-git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
