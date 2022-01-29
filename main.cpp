@@ -2,7 +2,7 @@
 
 int count(int a, int  b)
 {
-    return a + b;
+    return a * b; //zmiana dodawania na mnożenie
 }
 
 int main() {
